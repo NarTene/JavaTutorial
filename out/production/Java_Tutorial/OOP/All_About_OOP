@@ -1,0 +1,38 @@
+
+
+
+1. How to define a class in Java.
+        1. Variables AKA fields
+        2. Methods AKA Function
+        3. Nested class
+        4. Anonymous class
+
+2. Constructor
+       2.1. Every class must have at least one constructor.If there is no constructors for your class, the compiler will supply a default constructor(no-arg constructor).
+       2.2. A constructor is used to construct an object.
+       2.3  A constructor looks like a method and is sometimes called a constructor method.
+       2.4  A constructor never returns a value
+       2.5  A constructor always has the same name as the class.
+       2.6  A constructor may have zero argument, in which case it is called a no-argument (or no-arg, for short) constructor.
+       2.7  Constructor arguments can be used to initialize the fields in the object.
+
+3. Define Methods and types of methods.
+
+4. Inheritance
+You extend a class by creating a new class.
+    The former and the latter will then have a parent-child relationship.
+    The original class is the parent class or the base class or the superclass.
+    The new class is called a child class or a subclass or a derived class of the parent.
+    The process of extending a class in object-oriented programming is called inheritance.
+    In a subclass you can add new methods and new fields as well as override existing methods in the parent class to change their behaviors.
+    Inheritance gives you the opportunity to add some functionality that does not exist in the original class.
+    Inheritance can also change the behaviors of the existing class to better suit your needs.
+    The subclass and the superclass has an "is-a" relationship.
+
+5. Encapsulation
+
+6. Abstraction
+
+7. Polymorphism
+   7.1 Method OverLoading
+   7.2 Method OverRiding
